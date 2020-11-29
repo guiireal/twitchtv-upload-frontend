@@ -1,10 +1,9 @@
-import React from "react";
 import Title from "../../components/Title";
 
 const parameters = {
   title: "Components/Title",
   component: Title,
-  properties: {
+  parameters: {
     layout: "centered",
   },
 };
